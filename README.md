@@ -12,5 +12,3 @@ Press q to exit the program.
 
 
 
-https://user-images.githubusercontent.com/73147643/168726168-78b28c41-e4e3-4b60-bdec-784cb174df61.mp4
-
